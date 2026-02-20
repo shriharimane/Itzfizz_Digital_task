@@ -1,4 +1,4 @@
-tzFizz Ditzfizz_digital – Hero Scroll Animation Task
+itzfizz_digital – Hero Scroll Animation Task
 📌 Project Overview
 
 This project recreates a scroll-based hero section animation inspired by the reference demo below.
